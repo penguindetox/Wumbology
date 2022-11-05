@@ -1,0 +1,18 @@
+{
+  "name": "wumbonet",
+  "version": "1.0.0",
+  "description": "a utility library using linear regression and neural networks to predict bazaar prices in skyblock",
+  "main": "./build/main.js",
+  "scripts": {
+    "start": "tsc && node ./build/main.js"
+  },
+  "keywords": [
+    "machine",
+    "learning"
+  ],
+  "author": "penguindetox",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^11.3.2"
+  }
+}

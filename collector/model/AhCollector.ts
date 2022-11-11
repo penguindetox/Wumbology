@@ -32,6 +32,7 @@ export class AHCollector{
                                     end:pages[i].data.auctions[j].end
                                     
                                 });
+                                
                             }
 
                         }
